@@ -10,7 +10,7 @@ const theme = createMuiTheme({
         specialHeadings: '#FFA820',
     },
     fonts: {
-        extraLarge: '96px',
+        extraLarge: '64px',
         large: '48px',
         medium: '36px',
         small: '24px',
